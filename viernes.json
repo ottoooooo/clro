@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "nombre":"Tsubasa",
+        "edad":"22",
+        "identidadsecreta":"Hijo del fútbol",
+        "poderes":"rapidez",
+        "imagen":"1.jpg"
+    },
+    {
+        "id":null,
+        "nombre":null,
+        "edad":null,
+        "identidadsecreta":null,
+        "poderes":null,
+        "imagen":null
+    },
+    {
+        "id":null,
+        "nombre":null,
+        "edad":null,
+        "identidadsecreta":null,
+        "poderes":null,
+        "imagen":null
+    }
+ 
+]
